@@ -1,0 +1,21 @@
+# Hugo generated files
+/public/
+/resources/
+
+# Temporary files
+.DS_Store
+*.log
+Thumbs.db
+
+# Hugo server lock file
+hugo*.lock
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment-specific files
+.env
+*.local

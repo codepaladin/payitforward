@@ -1,0 +1,18 @@
+baseURL = "https://example.com/"  # Missing quotes
+languageCode = "en-us"
+title = "Gallery"
+theme = "gallery"
+
+[params]
+  description = "An example site for hugo-theme-gallery"
+
+[related]
+  includeNewer = true
+  threshold = 10
+  toLower = false
+  [[related.indices]]
+    name = "categories"
+    weight = 10
+  [[related.indices]]
+    name = "keywords"
+    weight = 50
