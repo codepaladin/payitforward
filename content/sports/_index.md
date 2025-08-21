@@ -1,6 +1,6 @@
 ---
-description: This is the "Animals" album. It has two sub-albums.
-keywords: [Animals, Photos, Cats, Dogs]
+description: This is the "Sports" album. It has two sub-albums.
+keywords: [Soccer]
 title: Sports
 weight: 1
 menus: "main"
