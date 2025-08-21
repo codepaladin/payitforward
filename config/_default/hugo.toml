@@ -1,4 +1,4 @@
-copyright = "© Your Name"
+copyright = ""
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
@@ -12,21 +12,21 @@ title = "Gallery"
   description = "Example site for hugo-theme-gallery"
   title = "My Gallery"
   [params.author]
-    email = "user@example.com"
-    name = "Your Name"
+    email = "chris.boyscout@gmail.com"
+    name = ""
   [params.socialIcons]
-    facebook = "https://www.facebook.com/"
-    instagram = "https://www.instagram.com/"
-    github = "https://github.com/nicokaiser/hugo-theme-gallery/"
-    youtube = "https://www.youtube.com/"
-    email = "mailto:user@example.com"
-    #website = "https://example.com"
-    #mastodon = "https://example.com"
-    #pixelfed = "https://example.com"
-    #mixcloud = "https://example.com"
-    #flickr = "https://www.flickr.com"
-    #500px = "https://500px"
-    #whatsapp = "1234567890"
+    facebook = ""
+    instagram = ""
+    github = ""
+    youtube = ""
+    email = "mailto:chris.boysscout@gmail.com"
+    #website = ""
+    #mastodon = ""
+    #pixelfed = ""
+    #mixcloud = ""
+    #flickr = ""
+    #500px = ""
+    #whatsapp = ""
   [params.gallery]
     #boxSpacing = 10
     #targetRowHeight = 288
@@ -52,11 +52,3 @@ title = "Gallery"
     path = "github.com/nicokaiser/hugo-theme-gallery/v4"
 
 [menu]
-  [[menu.footer]]
-    name = "GitHub"
-    url = "https://github.com/nicokaiser/hugo-theme-gallery/"
-    weight = 3
-
-[services]
-  [services.rss]
-    limit = 100

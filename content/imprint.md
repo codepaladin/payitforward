@@ -1,5 +1,5 @@
----
-title: Imprint
+/*---
+title: Pay It Forward
 rss_ignore: true
 layout: prose
 menu:
@@ -7,4 +7,4 @@ menu:
     weight: 1
 ---
 
-(Put your imprint here)
+Do unto others as you would have them do unto you.*/

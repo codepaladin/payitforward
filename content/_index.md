@@ -1,7 +1,7 @@
 ---
 description: An example photography site.
 #lastmod: 2023-07-05
-title: Hugo Gallery
+title: Pay It Forward Photos
 resources:
   - src: martin-martz-wRuhOOaG-Z4-unsplash.jpg
     params:
