@@ -32,16 +32,16 @@ wget --no-clobber --content-disposition --directory-prefix=content/fashion-beaut
 wget --no-clobber --content-disposition --directory-prefix=content/fashion-beauty "https://unsplash.com/photos/7gqnlnCTvlg/download?&force=true&w=1920"
 wget --no-clobber --content-disposition --directory-prefix=content/fashion-beauty "https://unsplash.com/photos/V94CguEmeos/download?&force=true&w=1920"
 
-# Nature
-wget --no-clobber --content-disposition --directory-prefix=content/nature "https://unsplash.com/photos/ZS_XuDZmxpM/download?&force=true&w=1920"
-wget --no-clobber --content-disposition --directory-prefix=content/nature "https://unsplash.com/photos/U7BG3FOT5r8/download?&force=true&w=1920"
-wget --no-clobber --content-disposition --directory-prefix=content/nature "https://unsplash.com/photos/TUzsO59UFpo/download?&force=true&w=1920"
-wget --no-clobber --content-disposition --directory-prefix=content/nature "https://unsplash.com/photos/P45gR9kH0SM/download?&force=true&w=1920"
-wget --no-clobber --content-disposition --directory-prefix=content/nature "https://unsplash.com/photos/k_PbdrEs79g/download?force=true&w=1920"
-wget --no-clobber --content-disposition --directory-prefix=content/nature "https://unsplash.com/photos/4f8u5mFGKjw/download?&force=true&w=1920"
-wget --no-clobber --content-disposition --directory-prefix=content/nature "https://unsplash.com/photos/f_C_lFxqThI/download?&force=true&w=1920"
-wget --no-clobber --content-disposition --directory-prefix=content/nature "https://unsplash.com/photos/x7CyIC2jUaE/download?&force=true&w=1920"
-wget --no-clobber --content-disposition --directory-prefix=content/nature "https://unsplash.com/photos/RuaRTaKi-D4/download?force=true&w=1920"
+# outside
+wget --no-clobber --content-disposition --directory-prefix=content/outside "https://unsplash.com/photos/ZS_XuDZmxpM/download?&force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/outside "https://unsplash.com/photos/U7BG3FOT5r8/download?&force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/outside "https://unsplash.com/photos/TUzsO59UFpo/download?&force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/outside "https://unsplash.com/photos/P45gR9kH0SM/download?&force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/outside "https://unsplash.com/photos/k_PbdrEs79g/download?force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/outside "https://unsplash.com/photos/4f8u5mFGKjw/download?&force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/outside "https://unsplash.com/photos/f_C_lFxqThI/download?&force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/outside "https://unsplash.com/photos/x7CyIC2jUaE/download?&force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/outside "https://unsplash.com/photos/RuaRTaKi-D4/download?force=true&w=1920"
 
 # Private
 wget --no-clobber --content-disposition --directory-prefix=content/private "https://unsplash.com/photos/gRknIewfaBs/download?force=true&w=1920"

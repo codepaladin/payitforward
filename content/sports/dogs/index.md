@@ -1,11 +1,16 @@
 ---
-date: 2023-01-12
-title: Dogs
-categories: ["animals", "nature"]
+description: Through photography, the beauty of Mother outside can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.
+menus: "main"
+title: TBU
+categories: ["TBU"]
+weight: 4
+params:
+  featured_image: azzedine-rouichi-ZS_XuDZmxpM-unsplash.jpg
+  theme: dark
+  sort_order: desc
+  sort_by: Name # Exif.Date
 resources:
-  - src: milli-2l0CWTpcChI-unsplash.jpg
+  - src: azzedine-rouichi-ZS_XuDZmxpM-unsplash.jpg
     params:
       cover: true
 ---
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
