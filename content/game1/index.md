@@ -1,9 +1,8 @@
 ---
 description: Through photography, the beauty of Mother outside can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.
-menus: "main"
-title: TBU
-categories: ["TBU"]
-weight: 4
+title: game 1
+categories: ["soccer"]
+weight: 5
 params:
   featured_image: azzedine-rouichi-ZS_XuDZmxpM-unsplash.jpg
   theme: dark
@@ -13,4 +12,5 @@ resources:
   - src: azzedine-rouichi-ZS_XuDZmxpM-unsplash.jpg
     params:
       cover: true
+      huidden: true
 ---

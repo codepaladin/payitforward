@@ -1,17 +1,12 @@
 ---
-description: An example photography site.
-#lastmod: 2023-07-05
-title: Pay It Forward Photos
+description: This is the "Soccer" album. It has two sub-albums.
+keywords: [CDS, TBU]
+title: Soccer
+weight: 1
+menus: "main"
+# list pages require at least one image to be displayed.
 resources:
-  - src: martin-martz-wRuhOOaG-Z4-unsplash.jpg
+  - src: janis-ringli-UC1pzyJFyvs-unsplash.jpg
     params:
-      cover: true # cover of the home page is used for OpenGraph cards, etc.
-menus:
-  main:
-    name: Home
-    weight: -1
-# sub-galleries on list pages are sorted by date and weight (descending)
-#cascade:
-#  build:
-#    publishResources: false # do not include full images. Also disable download
+      cover: true
 ---
